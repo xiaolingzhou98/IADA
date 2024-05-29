@@ -2,7 +2,19 @@
 # Boosting Model Resilience via Implicit Adversarial Data Augmentation
 
  
-This repository contains the code of "Boosting Model Resilience via Implicit Adversarial Data Augmentation".
+This repository contains the code of "Boosting Model Resilience via Implicit Adversarial Data Augmentation (IJCAI 2024)".
+
+#### Citation
+If you find this study useful for your research, please cite our paper.
+```
+@article{zhou2024boosting,
+  title={Boosting Model Resilience via Implicit Adversarial Data Augmentation},
+  author={Zhou, Xiaoling and Ye, Wei and Lee, Zhemg and Xie, Rui and Zhang, Shikun},
+  journal={arXiv preprint arXiv:2404.16307},
+  year={2024}
+}
+```
+
  
 #### Abstract
 
